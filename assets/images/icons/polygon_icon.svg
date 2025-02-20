@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17">
+  <g id="Polygon" transform="translate(-16 -103)">
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="16" height="17" rx="8" transform="translate(16 103)" fill="rgba(255,255,255,0)"/>
+    <path id="Union_1" data-name="Union 1" d="M9.143,13a1,1,0,0,1,1-1q.046,0,.092,0l2.21-3.315a1,1,0,0,1,.124-1.735L11.115,3.631A1,1,0,0,1,9.73,2.537L6.556,1.177a1,1,0,0,1-1.858.31L1.572,3.572,4.7,1.487A1,1,0,1,1,6.571,1a1.006,1.006,0,0,1-.016.177L9.73,2.537a1,1,0,1,1,1.386,1.094l1.454,3.323a1,1,0,1,1-.124,1.735L10.235,12a1,1,0,1,1-1.092,1ZM0,13a1,1,0,0,1,1-1V5.429a1,1,0,1,1,1-1,1,1,0,0,1-1,1V12a1,1,0,0,1,1,1H2a1,1,0,1,1-2,0Z" transform="translate(17 104)" fill="rgba(255,255,255,0)" stroke="#2b2b2b" stroke-width="1.5"/>
+  </g>
+</svg>
